@@ -18,7 +18,7 @@ public class Entornos4 {
 	 * LONGITUD fija del el array
 	 * 
 	 */
-	private final int LONGITUD=10;
+	private final int LONGITUD=15;
 	private int[] vector;
 	
 	/**
